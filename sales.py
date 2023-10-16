@@ -7,4 +7,4 @@ from sklearn.ensemble import RandomForestRegressor
 from sklearn.linear_model import LinearRegression
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.metrics import mean_absolute_error,mean_squared_error,r2_score
-from tensorflow.keras.models import sequential
+from keras.models import Sequential
